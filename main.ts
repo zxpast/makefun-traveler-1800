@@ -32,7 +32,7 @@
 //    — the twist is that the reader is also a writer, and the book
 //    answers back before the sound of your own word has faded.
 //    Rival scan over all 193 live rival texts with readable artifacts
-//    (2026-11-24 ~13:0x WIB, via /api/submissions/{id}/artifact.txt):
+//    (2026-11-24 ~13:05 WIB, via /api/submissions/{id}/artifact.txt):
 //    zero exact or near duplicates. Worst word-Jaccard 0.294 (a
 //    library-of-lightning rival that shares only the generic clause
 //    "any soul on earth may"), worst shared substring 23 characters
